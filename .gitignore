@@ -1,0 +1,9 @@
+*.swp
+*.sys
+*.obj
+objchk_win7_x86
+objchk_win7_amd64
+*.pyd
+__pycache__
+dist.zip
+dist
