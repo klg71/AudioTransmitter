@@ -25,7 +25,7 @@ The data is transmitted as in WAVE-format through bare sockets
   2. Change to driver directory
   3. Install the driver through devcon
 
-			devcon install msvad.inf *MSVADAudioTransmitter
+		devcon install msvad.inf *MSVADAudioTransmitter
  
 4. Now you can select "AudioTransmitter" as Playback Device in Windows and all audio will be saved under *C:\STREAM\#*
 5. To start the audio server simply start */server/server.py* with the desired arguments
