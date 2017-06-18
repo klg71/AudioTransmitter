@@ -71,7 +71,7 @@ path = 'C:\\STREAM\\'
 
 
 def get_int(file_name):
-    return int(file_name[1:-4])
+    return int(file_name[:-4])
 
 
 def sort_files(files):

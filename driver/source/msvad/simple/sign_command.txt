@@ -1,0 +1,1 @@
+Signtool sign /v /s PrivateCertStore /n meisegeier(Test) /t http://timestamp.verisign.com/scripts/timstamp.dll C:\WinDDK\7600.16385.1\src\audio\msvad\simple\objchk_win7_amd64\amd64\msvad.inf
