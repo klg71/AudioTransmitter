@@ -14,7 +14,8 @@ The data is transmitted as in WAVE-format through bare sockets
 # Installation
 1. Allow test signed drivers
 
-    bcdedit.exe -set TESTSIGNING ON
+
+    > bcdedit.exe -set TESTSIGNING ON
 
 2. Reboot PC to aktivate testsigning
 3. Create Dir *C:\STREAM\* (destination directory for stream files)
